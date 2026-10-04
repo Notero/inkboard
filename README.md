@@ -9,21 +9,9 @@
 
 ---
 
-## 👥 Team Members
-
-| Name | Role |
-|------|------|
-| [Name 1] | Frontend / React |
-| [Name 2] | Backend / Express API |
-| [Name 3] | Mobile / Flutter |
-| [Name 4] | Database / MongoDB |
-| [Name 5] | DevOps / Deployment |
-
----
-
 ## 📖 Project Description
 
-[Describe your project here — what it does, who it's for, and why you built it.]
+Collaborative Whiteboard for drawing with friends or designing
 
 ---
 
